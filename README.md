@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shams1dinov)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=lutfiddin-ux&show_icons=true&count_private=true"/>
+
 <!--
 **lutfiddin-ux/lutfiddin-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
