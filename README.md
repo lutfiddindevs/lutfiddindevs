@@ -13,7 +13,7 @@
 </a>
 
 <!--
-**lutfiddin-ux/lutfiddin-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lutfiddindevs/lutfiddindevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
