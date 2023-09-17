@@ -4,12 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/lutfiddin-shamsidinov-1ab457205)
 
 
-<a href="https://github.com/lutfiddin-ux/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfiddin-ux&include_all_commits=true&line_height=20&show_icons=true&theme=cobalt" alt="Lutfiddin's github stats" />
+<a href="https://github.com/lutfiddindevs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lutfiddindevs&include_all_commits=true&line_height=20&show_icons=true&theme=cobalt" alt="Lutfiddin's github stats" />
 </a>
 
-<a href="https://github.com/lutfiddin-ux/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiddin-ux&layout=compact&theme=cobalt" />
+<a href="https://github.com/lutfiddindevs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiddindevs&layout=compact&theme=cobalt" />
 </a>
 
 <!--
